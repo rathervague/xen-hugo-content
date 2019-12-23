@@ -1,3 +1,6 @@
 [submodule "themes/xen"]
 	path = themes/xen
 	url = https://github.com/rathervague/xen-hugo-theme.git
+[submodule "themes/xen-icon"]
+	path = themes/xen-icon
+	url = https://github.com/rathervague/xen-icon-hugo-theme.git
