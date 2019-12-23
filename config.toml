@@ -22,7 +22,7 @@ title = "My Awesome Title"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
-  # logo = "path/to/logo"
+  logo = "/img/logo-01.svg"
 
 # Mission section
 [params.mission]
