@@ -1,0 +1,3 @@
+[submodule "themes/xen"]
+	path = themes/xen
+	url = https://github.com/rathervague/xen-hugo-theme.git
